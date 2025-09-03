@@ -1,3 +1,6 @@
+// Authors: Ryan Stevens and (Lab Partner)
+// Purpose: Prove that you can compile with makefile and use cin and cout
+
 #include "myfunctions.h"
 
 int main() {
